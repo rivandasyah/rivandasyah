@@ -1,5 +1,9 @@
-### Hi there 👋
+## Halo semua!
 
+Perkenalkan nama saya **Rivanda Mahdiyansyah**. <br>
+Saya merupakan mahasiswi Universitas Gunadarma Jurusan Informatika yang sedang berada pada Semester 6. <br>
+Pada tahun ini, saya mengikuti MSIB Bangkit Academy Angkatan 6. Mohon bantuannya, semua. <br> <br>
+Jika berminat untuk berkenalan, mari berteman di akun [Instagram](https://www.instagram.com/rivandasyah_/) atau [Linkedin](https://www.linkedin.com/in/rivandasyah/) saya. Terima kasih.
 <!--
 **rivandasyah/rivandasyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
