@@ -1,9 +1,13 @@
-## Halo semua!
+## Halo All!
 
-Perkenalkan nama saya **Rivanda Mahdiyansyah**. <br>
-Saya merupakan mahasiswi Universitas Gunadarma Jurusan Informatika yang sedang berada pada Semester 6. <br>
-Pada tahun ini, saya mengikuti MSIB Bangkit Academy Angkatan 6. Mohon bantuannya, semua. <br> <br>
-Jika berminat untuk berkenalan, mari berteman di akun [Instagram](https://www.instagram.com/rivandasyah_/) atau [Linkedin](https://www.linkedin.com/in/rivandasyah/) saya. Terima kasih. <br><br>
+Hello, my name is Rivanda Mahdiyansyah.<br>
+I am currently in my final semester studying Informatics at Gunadarma University.<br>
+I successfully completed the Bangkit Academy program (Batch 6) in 2023.<br><br>
+
+I’m always open to networking and collaboration.<br>
+Feel free to connect with me on <a href="https://www.instagram.com/rivandasyah_/" target="_blank">Instagram</a> or <a href="https://www.linkedin.com/in/rivandasyah/" target="_blank">LinkedIn</a>.<br><br>
+
+Thank you for visiting my profile!
 
 <p align="left">
 <a href="https://github.com/rivandasyah">
