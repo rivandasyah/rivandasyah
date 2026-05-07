@@ -32,14 +32,14 @@
 
 ## 📌 Featured Projects
 
-### 📱 Event Management App
-Mobile application for event registration, attendance tracking, and participant management using Flutter & Firebase.
+### 💼 HiredToday Mobile Application
+Contributed to the development of the HiredToday mobile application using Flutter, implementing Profile and Smart CV features with Dio REST API integration and GetX state management.
 
-### 🤖 YOLO Classification App
-Android application implementing object classification with AI model integration.
+### 🍊 CitrusChecky
+Developed an Android application for real-time citrus fruit decay classification using YOLOv8n and TensorFlow Lite for efficient on-device AI inference.
 
-### 🔍 QR Attendance System
-QR-based attendance system with real-time validation and Firebase backend.
+### 🎨 ArtNaon
+Built a painting genre classification application as part of the Bangkit Capstone Project, contributing to UI/UX design, API integration, and machine learning implementation.
 
 ---
 
